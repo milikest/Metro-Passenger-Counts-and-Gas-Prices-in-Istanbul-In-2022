@@ -28,9 +28,9 @@ Some of the images from this work are shown below:
 
 ![Image 1](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%201.png?raw=true)
 
-([Images/Image 2.png](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%202.png)?raw=true)
+![Image 2](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%202.png?raw=true)
 
-![Image 3](Images/Image 3.png?raw=true)
+![Image 3](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%203.png?raw=true)
 
 And here there is a gif from the visualisations:
 
@@ -48,6 +48,7 @@ This work can be improved by adding different features like;
 
 ### DEPENDENCIES:
 
+- Python     : 3.8
 - Pandas     : 1.5.2
 - Numpy      : 1.21.6
 - Matplotlib : 3.6.2
