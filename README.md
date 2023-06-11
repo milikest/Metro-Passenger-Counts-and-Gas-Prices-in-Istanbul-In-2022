@@ -30,9 +30,9 @@ Some of the images from this work are shown below:
 
 ![Image 2](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%202.png?raw=true)
 
-![Image 3](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%203.png?raw=true)
-
 And here there is a gif from the visualisations:
+
+<img src="https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif" alt="Map Gif" loop=infinite>
 
 ![Map Gif](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif?raw=true)
 
