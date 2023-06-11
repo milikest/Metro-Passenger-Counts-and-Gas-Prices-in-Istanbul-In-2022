@@ -34,8 +34,6 @@ And here there is a gif from the visualisations:
 
 <img src="https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif" alt="Map Gif" loop=infinite>
 
-![Map Gif](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif?raw=true)
-
 This work can be improved by adding different features like; 
 - Average salary of employees during the 2022
 - Schools education calendar
