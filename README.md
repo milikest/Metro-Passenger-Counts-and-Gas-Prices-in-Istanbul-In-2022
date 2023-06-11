@@ -32,7 +32,7 @@ Some of the images from this work are shown below:
 
 And here there is a gif from the visualisations:
 
-![Map Gif](Images/Images/Map gif.gif?raw=true)
+![Map Gif]([https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif])
 
 This work can be improved by adding different features like; 
 - Average salary of employees during the 2022
@@ -45,10 +45,11 @@ This work can be improved by adding different features like;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### DEPENDENCIES:
-Pandas     : 1.5.2
-Numpy      : 1.21.6
-Matplotlib : 3.6.2
-Seaborn    : 0.11.2
-Folium     : 0.12.1.post1
+
+- Pandas     : 1.5.2
+- Numpy      : 1.21.6
+- Matplotlib : 3.6.2
+- Seaborn    : 0.11.2
+- Folium     : 0.12.1.post1
 
 
