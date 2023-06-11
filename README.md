@@ -28,13 +28,13 @@ Some of the images from this work are shown below:
 
 ![Image 1](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%201.png?raw=true)
 
-![Image 2](Images/Image 2.png?raw=true)
+([Images/Image 2.png](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%202.png)?raw=true)
 
 ![Image 3](Images/Image 3.png?raw=true)
 
 And here there is a gif from the visualisations:
 
-![Map Gif](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif?raw=true "Title")
+![Map Gif](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Map%20gif.gif?raw=true)
 
 This work can be improved by adding different features like; 
 - Average salary of employees during the 2022
