@@ -25,7 +25,9 @@ Files are uploaded to the repo too.
 Some of the images from this work are shown below:
 
 ![Image 1](Images/Image 1.png?raw=true)
+
 ![Image 2](Images/Image 2.png?raw=true)
+
 ![Image 3](Images/Image 3.png?raw=true)
 
 And here there is a gif from the visualisations:
@@ -42,7 +44,7 @@ This work can be improved by adding different features like;
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###DEPENDENCIES:
+### DEPENDENCIES:
 Pandas     : 1.5.2
 Numpy      : 1.21.6
 Matplotlib : 3.6.2
