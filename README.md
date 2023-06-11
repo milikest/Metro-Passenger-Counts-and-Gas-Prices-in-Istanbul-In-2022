@@ -11,7 +11,9 @@ Main investigation is about if there is a relation between gas price changes and
 ### DATA
 Metro passenger data is gathered from Istanbul Metropolitan Municipality Open Data Portal : https://data.ibb.gov.tr/en/ 
 Unfortunately it needed to be download manually, because it throws an max trials exceeded error when we try to download it by urrlib library. 
+
 Here is the csv file link: 
+
 'https://data.ibb.gov.tr/en/dataset/ae3b2e4b-073a-48d0-8ef3-f28f19bcb19c/resource/5c2b78fc-3b68-4722-844f-3051c358a13f/download/2022-yl-rayl-sistemler-istasyon-bazl-yolcu-ve-yolculuk-saylar.csv'
 
 We will use gas prices and try to observe the relation between the passanger counts and gas price changes. For this purpose we will be using data from a company called Opet. 
@@ -24,7 +26,7 @@ Files are uploaded to the repo too.
 ### EXAMPLES
 Some of the images from this work are shown below:
 
-![Image 1](Images/Image 1.png?raw=true)
+![Image 1](https://github.com/milikest/Metro-Passenger-Counts-and-Gas-Prices-in-Istanbul-In-2022/blob/main/Images/Image%201.png?raw=true)
 
 ![Image 2](Images/Image 2.png?raw=true)
 
